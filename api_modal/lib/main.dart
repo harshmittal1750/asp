@@ -1,8 +1,7 @@
+import 'package:api_modal/providers/user/api_model.dart';
+import 'package:api_modal/providers/user/api_providers.dart';
 import 'package:flutter/material.dart';
-import 'package:providers/provider.dart';
-import 'package:API_MODAL/lib/providers/user/api-providers.dart';
-
-import 'package:API_MODAL/providers/user/api_model.dart';
+import 'package:provider/provider.dart';
 
 void main() {
   runApp(MyApp());
